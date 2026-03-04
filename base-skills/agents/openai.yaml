@@ -1,0 +1,4 @@
+interface:
+  display_name: "Base Skills"
+  short_description: "Core coding workflow for repo analysis, edits, and validation"
+  default_prompt: "Execute common coding tasks in a repository: inspect files, implement focused changes, run checks, and summarize results."
